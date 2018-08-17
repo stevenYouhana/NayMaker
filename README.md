@@ -1,2 +1,1 @@
-# NayMaker
-This is an app designed to help me define precise measurements for making my flutes based on tuning 
+I designed this app to perform and calculations for the purpose of making an authentic flute. The application will require the the speed of sound in the medium being used (e.g. 341ms) and the certain tuning of the flute(e.g. D)
